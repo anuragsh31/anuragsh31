@@ -2,7 +2,9 @@
 
 ## I am Anurag Shukla, a Passionate and Aspiring Data Scientist. My area of expertise are Python, Machine Learning, Deep Learning, Statistics. And I am exploring more on these Technologies. 
 
-
+```
+![Visitor Count](https://profile-counter.glitch.me/{anuragsh31}/count.svg)
+```
 
 <!--
 **anuragsh31/anuragsh31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
