@@ -2,7 +2,7 @@
 
 ## I am Anurag Shukla, a Passionate and Aspiring Data Scientist. My area of expertise are Python, Machine Learning, Deep Learning, Statistics. And I am exploring more on these Technologies. 
 
-![Visitor Count](https://profile-counter.glitch.me/{anuragsh31}/count.svg)
+![](https://visitor-badge.glitch.me/badge?page_id=anuragsh31.anuragsh31)
 
 
 <!--
