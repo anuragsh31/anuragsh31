@@ -4,6 +4,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=anuragsh31.anuragsh31)
 
+   - 💬 Ask me about anything, I am happy to help & discuss.
+   - 🔭 I’m currently working as Jr. Data Scientist at Ineuron.
+   - 👯 I'm looking for colaboration on interesting data science technologies
+   
 
 <!--
 **anuragsh31/anuragsh31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
